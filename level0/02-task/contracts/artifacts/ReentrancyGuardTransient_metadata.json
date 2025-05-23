@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"TransientStorage.sol": "ReentrancyGuardTransient"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"TransientStorage.sol": {
+			"keccak256": "0xb6dce5fa4d7c9f2c59af76aa6c227ffc25c4ad145e1be2631e3530791178271c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4d248d3d8a0ef5bb0e69bc2ce2e86bbedd7e860a465146749a8896d2b9e5a456",
+				"dweb:/ipfs/QmNy7KYjsoW8Lit5GjrkpYQvKJtvE726Szdnc9sJNSQ1r6"
+			]
+		}
+	},
+	"version": 1
+}
